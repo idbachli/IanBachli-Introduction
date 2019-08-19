@@ -1,0 +1,36 @@
+---
+title: "Ian Bachli Introduction"
+output: html_notebook
+html document: 
+theme: journal 
+highlight: espresso
+---
+
+# About Me
+Hello, my name is Ian Bachli and I am a first year PhD student in the Environmental Health Science Program. I was born in Monroe, Michigan, and have lived in Michigan for the entirity of my life. I grew up loving the great outdoors, and have always been deeply interested in Science. Wanting to know how everything worked, I pursued a career in science and have been working towards it ever since.
+
+# Research Background
+
+### University of Toledo - [Dr Tomer Avidor-Reiss] (https://www.utoledo.edu/nsm/bio/research/AvidorReiss.html)
+I graduated from the University of Toledo, achieving a BS degree in Biology and Chemistry. During my Undergraduate stay, I worked in a laboratory on campus, identifying specific proteins that played a role in Centrosome Genesis.
+
+### University of Georgia - [Dr Charles Easley] (https://publichealth.uga.edu/faculty-member/charles-a-easley/)
+After graduating, I applied for an internship in Dr. Easley's lab and studied the impact and effects of environmental conditions on spermatogenesis. 
+
+# Current Research Interest 
+I am currently in rotation among a few different laboratories to determine where I will best fit in among the Environmental Health Science laboratories. I happen to find many of them interesting, so it will be hard to find a perfect fit!
+
+# Training & Previous Experience
+I have very little training in writing computer code, so this is all new to me. I have a few friends who are Computer Science majors who would probably laugh at me for my initial lack of knowledge.
+
+# Course Goals
+I am a novice when it comes to Coding, and so I wish to learn everything I can about it. It will be extremely useful for future research projects and I am excited to take the next step forward.
+
+# Fun Facts
+I have written one fantasy novel and I am currently working on a American West Fiction novel! Neither are published, but it's just a hobby of mine that I enjoy when I can find the time. 
+
+I have climbed the highest mountains on both the Eastern and Western sides of the United States. 
+
+# Something Interesting 
+I came across this website [Statista] (https://www.statista.com/) which uses statistical analysis to pull a wide variety of results for all sorts of useful things, ranging from economics, population studies, and political views. 
+
