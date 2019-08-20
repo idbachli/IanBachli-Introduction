@@ -6,7 +6,7 @@ theme: journal
 highlight: espresso
 ---
 
-# About Me
+# About Me 
 Hello, my name is Ian Bachli and I am a first year PhD student in the Environmental Health Science Program. I was born in Monroe, Michigan, and have lived in Michigan for the entirity of my life. I grew up loving the great outdoors, and have always been deeply interested in Science. Wanting to know how everything worked, I pursued a career in science and have been working towards it ever since.
 
 # Research Background
